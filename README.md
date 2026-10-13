@@ -65,6 +65,24 @@ These prototypes were created as part of my early Unreal development learning
 process and helped me understand gameplay loops, input systems, and Blueprint 
 scripting fundamentals.
 
+🗡️ Dungeon Crawler Prototype (Unreal Engine)
+
+A top‑down dungeon crawler built in Unreal Engine using Blueprint. This project 
+focused heavily on level design, enemy behavior, and core gameplay loops. Features 
+included:
+
+• Multi‑room dungeon layouts with collision and navigation  
+• Floor and room design with custom geometry and interaction zones  
+• AI enemies that detect, chase, and attack the player  
+• Melee combat system (sword attacks)  
+• Player health, damage, and game state flow  
+• Camera setup for top‑down gameplay  
+• Level scripting for doors, triggers, and progression
+
+This project helped me understand level design workflows, AI behavior trees, 
+combat logic, and how to structure gameplay loops in Unreal Engine.
+
+
 
 ---
 
