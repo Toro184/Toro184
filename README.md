@@ -50,6 +50,22 @@ and modern deployment pipelines.
 ### GAM415 — Advanced Gameplay & Niagara FX
 🔗 https://github.com/Toro184/GAM415_Garcia
 
+### 🔫 First‑Person Shooter Prototypes (Unreal Engine)
+A series of FPS prototypes built in Unreal Engine using Blueprint. These projects 
+explore core gameplay systems including:
+
+• First‑person movement and camera control  
+• Shooting mechanics and projectile logic  
+• Enemy AI behavior (basic)  
+• Health, damage, and game state flow  
+• Simple UI elements (crosshair, health bar, ammo)  
+• Level scripting and interaction logic  
+
+These prototypes were created as part of my early Unreal development learning 
+process and helped me understand gameplay loops, input systems, and Blueprint 
+scripting fundamentals.
+
+
 ---
 
 ## 🃏 Card Game (C++) — Learning Project
