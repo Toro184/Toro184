@@ -42,12 +42,14 @@ and modern deployment pipelines.
 
 ---
 
-## 🎮 Unreal Engine Projects (GAM415 & GAM312)
+## 🎮 Unreal Engine Projects
 
-Gameplay systems, UMG UI, Niagara FX, Blueprint + C++ integration, and engine scripting.
+### GAM312 — Gameplay & UI Systems
+🔗 https://github.com/Toro184/GAM312_Garcia
 
-**Repo:** https://github.com/Toro184/GAM312_Garcia
-**Repo:** https://github.com/Toro184/GAM415_Garcia
+### GAM415 — Advanced Gameplay & Niagara FX
+🔗 https://github.com/Toro184/GAM415_Garcia
+
 ---
 
 ## 🃏 Card Game (C++) — Learning Project
