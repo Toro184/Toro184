@@ -44,13 +44,16 @@ and modern deployment pipelines.
 
 ## 🎮 Unreal Engine Projects
 
-### GAM312 — Gameplay & UI Systems
+### GAM312 — Gameplay & UI Systems  
 🔗 https://github.com/Toro184/GAM312_Garcia
 
-### GAM415 — Advanced Gameplay & Niagara FX
+### GAM415 — Advanced Gameplay & Niagara FX  
 🔗 https://github.com/Toro184/GAM415_Garcia
 
+---
+
 ### 🔫 First‑Person Shooter Prototypes (Unreal Engine)
+
 A series of FPS prototypes built in Unreal Engine using Blueprint. These projects 
 explore core gameplay systems including:
 
@@ -65,7 +68,9 @@ These prototypes were created as part of my early Unreal development learning
 process and helped me understand gameplay loops, input systems, and Blueprint 
 scripting fundamentals.
 
-🗡️ Dungeon Crawler Prototype (Unreal Engine)
+---
+
+### 🗡️ Dungeon Crawler Prototype (Unreal Engine)
 
 A top‑down dungeon crawler built in Unreal Engine using Blueprint. This project 
 focused heavily on level design, enemy behavior, and core gameplay loops. Features 
@@ -77,12 +82,10 @@ included:
 • Melee combat system (sword attacks)  
 • Player health, damage, and game state flow  
 • Camera setup for top‑down gameplay  
-• Level scripting for doors, triggers, and progression
+• Level scripting for doors, triggers, and progression  
 
 This project helped me understand level design workflows, AI behavior trees, 
 combat logic, and how to structure gameplay loops in Unreal Engine.
-
-
 
 ---
 
