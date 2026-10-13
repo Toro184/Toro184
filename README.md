@@ -46,6 +46,8 @@ and modern deployment pipelines.
 
 Gameplay systems, UMG UI, Niagara FX, Blueprint + C++ integration, and engine scripting.
 
+**Repo:** https://github.com/Toro184/GAM312_Garcia
+**Repo:** https://github.com/Toro184/GAM415_Garcia
 ---
 
 ## 🃏 Card Game (C++) — Learning Project
